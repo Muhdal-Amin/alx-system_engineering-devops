@@ -1,1 +1,1 @@
-This readme file is mandatory for all projects
+This directory contains shell variables and expansion scripts
