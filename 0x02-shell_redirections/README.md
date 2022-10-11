@@ -1,1 +1,1 @@
-This readme file is mandatory in every project
+This directory contains shell I/O redirection scripts
