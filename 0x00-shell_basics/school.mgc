@@ -1,4 +1,1 @@
-# Magic file for detecting School data files
-
-# Priority 0, match "SCHOOL" at offset 0
 0 string SCHOOL School data file
