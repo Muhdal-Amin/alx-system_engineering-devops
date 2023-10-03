@@ -1,0 +1,1 @@
+Thsi directory contains my project files for the ALX Holberton school Shell - Processes and signals course.
